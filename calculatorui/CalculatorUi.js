@@ -130,7 +130,6 @@ export default function CalculatorUi() {
                         onPress={handleresult}>
                         <Text style={[styles.buttonsTitle, { color: 'black' }]}>=</Text>
                     </TouchableOpacity>
-<Text>Testingg</Text>
                 </View>
             </View>
         </View>
